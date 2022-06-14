@@ -1,3 +1,4 @@
+import 'package:class_test/screens/display.dart';
 import 'package:class_test/screens/home.dart';
 import 'package:flutter/material.dart';
 
